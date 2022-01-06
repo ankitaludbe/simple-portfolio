@@ -89,8 +89,8 @@ hr{
 }
 .bottom-container{
     background-color: #c9e2f6;
-    padding: 50px 0 20px;
-    font-size:1.5rem;
+    padding: 40px 0 20px;
+    
 
 }
 a{
@@ -141,8 +141,8 @@ a:hover{
     border-radius: 32px;
     font-family: 'Montserrat', sans-serif;
     color: #FEECE9;
-    font-size: 17px;
-    padding: 8px 18px 8px 18px;
+    font-size: 15.5px;
+    padding: 5px 15px 5px 15px;
     text-decoration: none;
     margin-top: 30px;
   }
