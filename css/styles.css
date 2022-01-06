@@ -78,6 +78,10 @@ hr{
     margin: 40px auto 40px auto;
    
 }
+.footer-link{
+    font-size:1rem;
+}
+    
 .profile-photo{
   margin-top: 10px;
   height:100px;
