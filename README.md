@@ -1,2 +1,4 @@
-# simple-portfolio
-A simple portfolio for practice
+# Practice website 1
+# Web development course 🖥️
+
+## A simple portfolio website.
