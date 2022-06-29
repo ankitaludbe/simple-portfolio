@@ -3,4 +3,4 @@
 
 ## A simple portfolio website.
 
-In this session I learnt to use simple html and css components to create a simple and beutiful portfolio website.
+By using html and css, created a simple and elegant portfolio website.
